@@ -1,4 +1,4 @@
-# Sustainable-Public-Opinion-Policy-vs-Marketplace-Discourse
+# Sustainable Public Opinion Policy vs Marketplace Discourse
 
 
 This project analyzes **attitudes toward sustainable policy** by comparing two fundamentally different discourse arenas:
