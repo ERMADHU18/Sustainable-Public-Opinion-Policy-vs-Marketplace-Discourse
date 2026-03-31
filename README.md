@@ -214,10 +214,3 @@ pip install -r requirements.txt
 - Explore cross-country policy comparisons
 
 
-
-##  Final Note
-
-This project addresses a core sustainability challenge:
-
-> Sustainable policy succeeds not only when it is written,  
-> but when it aligns with how people actually experience products.
